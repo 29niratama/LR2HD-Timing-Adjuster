@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# 設定ファイル（各自の環境で生成されるためアップロード不要）
+config.json
+
+# Pythonのキャッシュ
+__pycache__/
