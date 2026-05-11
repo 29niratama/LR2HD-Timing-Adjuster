@@ -42,6 +42,8 @@ Internet Ranking (IR): Use of this tool while registering scores to the IR is NO
 
 Use at Your Own Risk: The developer assumes no responsibility for any consequences, game crashes, or account penalties.
 
+-----------------------------------------------------------------------------------
+
 [日本語]
 ✨ 主な機能
 リアルタイム調整: プレイ中に判定値（TIMING）をホットキーで即座に変更。
